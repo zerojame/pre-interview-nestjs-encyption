@@ -22,6 +22,10 @@ $ pnpm run start:dev
 $ pnpm run start:prod
 ```
 
+## API Documentation
+
+Swagger documentation available at: http://localhost:3000/api-docs
+
 ## Run tests
 
 ```bash
